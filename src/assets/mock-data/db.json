@@ -1,0 +1,50 @@
+{
+  "products": [{
+      "id": 1,
+      "product_name": "One Plus 7t",
+      "category_id": "2",
+      "description": "This is One Plus Mobile",
+      "product_img": "img-path",
+      "price": 38000,
+      "is_available": true,
+      "rating": 4.5,
+      "reviews": 100,
+      "vendor_name": "Seller1",
+      "warranty": "2years"
+    },
+    {
+      "id": 2,
+      "product_name": "One Plus 7pro",
+      "category_id": "3",
+      "description": "This is One Plus Mobile",
+      "product_img": "img-path",
+      "price": 40000,
+      "is_available": true,
+      "rating": 4.5,
+      "reviews": 140,
+      "vendor_name": "Seller1",
+      "warranty": "2years"
+    },
+    {
+      "id": 1,
+      "product_name": "One Plus 7",
+      "category_id": "4",
+      "description": "This is One Plus Mobile",
+      "product_img": "img-path",
+      "price": 35000,
+      "is_available": true,
+      "rating": 4.5,
+      "reviews": 80,
+      "vendor_name": "Seller1",
+      "warranty": "2years"
+    }
+  ],
+  "comments": [{
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
+  }],
+  "profile": {
+    "name": "typicode"
+  }
+}

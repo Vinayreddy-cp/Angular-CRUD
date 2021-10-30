@@ -1,0 +1,22 @@
+- Setting Up API's and Mock Data using JSON Server:
+
+    - We can use any framework, language, any server setup for APIs
+    - We can use Cloud hosted APIs and Mock Endpoints
+
+    - JSON Server
+        - npm i --save json-server
+        - default port for json server is 3000
+        - best practice is to keep all the mock data in the assests folder
+        - https://github.com/typicode/json-server  -> we can copy dummy json from this link
+        - create a new file with db.json to store the data
+        - json-server --watch .\db.json -> to run the json-server
+
+
+
+- Install Bootstrap
+
+    - Bootstrap 4 
+        - npm i --save bootstrap jquery popper
+
+    - Bootstrap 5
+        - npm i --save bootstrap popper (Bootstrap 5 does not require jquery)
